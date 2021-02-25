@@ -9,4 +9,4 @@
   7. <b> [Создание модели, позволяющей определить стоимость автомобиля, основываясь на его характеристиках](https://github.com/VileBody/yandex-praktikum-projects/tree/master/car_price_estimator)</b>
   8. <b> [Прогнозирование пассажиропотока на следующий час для сервиса заказа такси](https://github.com/VileBody/yandex-praktikum-projects/tree/master/taxi_time_series)</b>
   9. <b> [Поиск токсичных комментариев в интернет сервисе](https://github.com/VileBody/yandex-praktikum-projects/tree/master/find_toxic_comments)</b>
-  10. <b> [Cистема компьютерного зрения) для супермаркета.](https://github.com/VileBody/yandex-praktikum-projects/tree/master/computer_vision)</b>
+  10. <b> [Cистема компьютерного зрения)))) для супермаркета.](https://github.com/VileBody/yandex-praktikum-projects/tree/master/computer_vision)</b>
